@@ -7,7 +7,7 @@ A pessoa inseri as informações da despesa na tela de cadastro e na tela de con
 
 Também tem a opção de excluir as despesas através de um botão.
 
-As despesas ficam armazenadas no do localStorage do browser utilizado.
+As despesas ficam armazenadas no localStorage do browser utilizado.
 
 ## Este projeto esta disponível no GitHub Pages
 https://maykonm.github.io/orcamento-pessoal/
