@@ -180,6 +180,8 @@ function carregaListaDespesas(despesas = Array(), filtro = false) {
         break
       case '5': d.tipo = 'Transporte'
         break
+      case '6': d.tipo = 'Conta'
+        break
     }
 
     linha.insertCell(1).innerHTML = d.tipo
