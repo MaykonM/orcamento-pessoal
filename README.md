@@ -6,5 +6,5 @@ A pessoa inseri as informações da despesa na tela de cadastro e na tela de con
 
 As despesas ficam armazenadas atraves do localStorage do browser utilizado.
 
-Este projeto esta disponível no GitHub Pages
+## Este projeto esta disponível no GitHub Pages
 https://maykonm.github.io/orcamento-pessoal/
